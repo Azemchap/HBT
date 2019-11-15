@@ -1,0 +1,53 @@
+.logo {
+    float: none;
+    text-align: center;
+}
+
+.navbar li, .navbar ul {
+    float: none;
+}
+
+.navbar li a {
+    padding: 5px;
+    border-bottom: 1px dotted #444;
+}
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+    height: 100%;
+}
+
+#features .box {
+    float: none;
+    width: 100%;
+}
+
+
+/* ********* About Page ********** */
+.about-hbt .abt-text {
+    line-height: 1em;
+}
+
+.info-left {
+    float: none;
+    width: 100%;
+}
+.info-right {
+    display: none;
+}
+
+
+
+
+
+
+/* *********** Contact Page ************/
+
+.contact-box {
+    border-bottom: 1px dotted rgb(66, 66, 66);
+}
