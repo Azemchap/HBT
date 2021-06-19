@@ -13,9 +13,8 @@
 html,
 body {
   font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
-  /* line-height: 1.7rem; */
+  line-height: 1.7rem;
   color: #333;
-  font-size: 62.5%;
 }
 
 a {
