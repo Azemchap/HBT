@@ -12,7 +12,7 @@
 /* General Settings */
 html,
 body {
-  font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
   line-height: 1.7rem;
   color: #333;
 }
@@ -52,15 +52,15 @@ p {
   color: #fff;
   background-color: #333;
   display: inline-block;
-  padding: 1.8rem 2.8rem;
+  padding: 20px 30px;
   border: none;
   cursor: pointer;
-  border-radius: 2px;
-  font-size: 1.1rem;
-  -webkit-border-radius: 2px;
-  -moz-border-radius: 2px;
-  -ms-border-radius: 2px;
-  -o-border-radius: 2px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
 }
 .btn-light {
   background: #f4f4f4;
@@ -156,7 +156,7 @@ p {
 
 /* showcase section */
 #showcase {
-  background: url("../img/showcase.jpg") no-repeat center center/cover;
+  background: url('../img/showcase.jpg') no-repeat center center/cover;
   height: 500px;
 }
 
@@ -192,7 +192,7 @@ p {
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url("../img/photo-1.jpg") no-repeat;
+  background: url('../img/photo-1.jpg') no-repeat;
   min-height: 100%;
 }
 
@@ -271,7 +271,7 @@ p {
 /* Testimonials  */
 #testimonials {
   height: 50%;
-  background: url("../img/test-bg.jpg") no-repeat center center/cover;
+  background: url('../img/test-bg.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 #testimonials .testimonials {
